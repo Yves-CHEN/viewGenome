@@ -1,0 +1,16 @@
+Package: viewGenome
+Type: Package
+Title: This is a collection of plots designed to view human genome by per chromosomes
+     with cytobands, or view in d.SKY
+Version: 1.0.0
+Author:  Wenhan Chen <wenhan.chen@uq.net.au>
+Maintainer:  Wenhan Chen <wenhan.chen@uq.net.au>
+Description:  Implementation of
+    1. View multiple chromosomes. 
+    2. Better view of the chromosomal coordinates.
+    3. View copy number profiles.
+    4. View ploidy. (d.SKY).
+    5. View soft-cliped reads (quick and higher-resolution than IGV) !
+Depends: R (>= 3.1.0), quantsmooth
+License: GPL-2
+Date: 2015-07-18
