@@ -11,4 +11,4 @@ R >= (3.1.2), quantsmooth
 R CMD INSTALL ./viewGenome
 ## Usage
     library(viewGenome)
-    runtest()   # This generates a test.pdf file if the installation works through.
+   
